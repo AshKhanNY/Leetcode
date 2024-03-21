@@ -12,6 +12,7 @@ Update: Picking this back up in March 2024, will refresh with [NeetCode](https:/
 | [Group Anagrams](GroupAnagrams.py)                | https://leetcode.com/problems/group-anagrams/              |
 | [Top K Frequent Elements](TopKFrequentElements.py)| https://leetcode.com/problems/top-k-frequent-elements/     |
 | [Product Except Self](ProductOfArrayExceptSelf.py)| https://leetcode.com/problems/product-of-array-except-self/|
+| [Valid Sudoku](Valid Sudoku.py)                   | https://leetcode.com/problems/valid-sudoku/                |
 | Legacy and Non-Python Problems                    |                                                            |
 | [Longest CommonPrefix](LongestCommonPrefix.cpp)   | https://leetcode.com/problems/longest-common-prefix        |
 | [Zig-Zag Conversion](ZigZagConversion.cpp)        | https://leetcode.com/problems/zigzag-conversion            |
