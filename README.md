@@ -14,7 +14,7 @@ Update: Picking this back up in March 2024, will refresh with [NeetCode](https:/
 | [Product Except Self](https://github.com/AshKhanNY/Leetcode/blob/main/Arrays%20%26%20Hashing/ProductOfArrayExceptSelf.py)    | https://leetcode.com/problems/product-of-array-except-self/|
 | [Valid Sudoku](https://github.com/AshKhanNY/Leetcode/blob/main/Arrays%20%26%20Hashing/ValidSudoku.py)                        | https://leetcode.com/problems/valid-sudoku/                |
 | [Longest Consecutive Sequence](https://github.com/AshKhanNY/Leetcode/blob/main/Arrays%20%26%20Hashing/LongestConsSeq.py)     | https://leetcode.com/problems/longest-consecutive-sequence/|
-| Two Pointers                                                                                                                 | ---------------------------------------------------------- |
+| Two Pointers                                                                                                                 |                                                            |
 | [Is Palindrome](https://github.com/AshKhanNY/Leetcode/blob/main/Two%20Pointers/IsPalindrome.py)                              | https://leetcode.com/problems/valid-palindrome/            |
 | [Three Sum](https://github.com/AshKhanNY/Leetcode/blob/main/Two%20Pointers/ThreeSum.py)                                      | https://leetcode.com/problems/valid-palindrome/            |
 | Stacks                                                                                                                       |                                                            |
