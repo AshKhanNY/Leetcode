@@ -16,7 +16,7 @@ Update: Picking this back up in March 2024, will refresh with [NeetCode](https:/
 | [Longest Consecutive Sequence](https://github.com/AshKhanNY/Leetcode/blob/main/Arrays%20%26%20Hashing/LongestConsSeq.py)     | https://leetcode.com/problems/longest-consecutive-sequence/|
 | Two Pointers                                                                                                                 |                                                            |
 | [Is Palindrome](https://github.com/AshKhanNY/Leetcode/blob/main/Two%20Pointers/IsPalindrome.py)                              | https://leetcode.com/problems/valid-palindrome/            |
-| [Three Sum](https://github.com/AshKhanNY/Leetcode/blob/main/Two%20Pointers/ThreeSum.py)                                      | https://leetcode.com/problems/valid-palindrome/            |
+| [Three Sum](https://github.com/AshKhanNY/Leetcode/blob/main/Two%20Pointers/ThreeSum.py)                                      | https://leetcode.com/problems/3sum/            |
 | Stacks                                                                                                                       |                                                            |
 | [Min Stack](https://github.com/AshKhanNY/Leetcode/blob/main/Stacks/MinStack.py)                                              | https://leetcode.com/problems/min-stack/                   |
 | [Valid Parentheses](https://github.com/AshKhanNY/Leetcode/blob/main/Stacks/ValidParentheses.py)                              | https://leetcode.com/problems/valid-parentheses/           |
